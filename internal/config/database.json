@@ -1,3 +1,3 @@
 {
- "databaseType": "mongodb+srv://julia:juliams2g@blockyplanet.etaegaj.mongodb.net/?retryWrites=true&w=majority&appName=BlockyPlanet"
+ "databaseType": "mongodb://skibidisigma:123456as@ac-ea1rbd5-shard-00-00.mbp0ief.mongodb.net:27017,ac-ea1rbd5-shard-00-01.mbp0ief.mongodb.net:27017,ac-ea1rbd5-shard-00-02.mbp0ief.mongodb.net:27017/?ssl=true&replicaSet=atlas-7frt7l-shard-0&authSource=admin"
 }
