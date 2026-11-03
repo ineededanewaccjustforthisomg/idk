@@ -1,1 +1,23 @@
-
+{
+  "tribe": {
+    "tribeNameMax": 20,
+    "tribeDetailsMax": 325,
+    "tribeTagsMax": 5,
+    "tagsMaxLength": 15,
+    "noticeBoardMaxContent": 120
+  },
+  
+  "user": {
+    "userIntroductionMax": 175,
+    "userBirthdayMax": "9999-99-99",
+    "userNicknameMax": 20,
+    "userNicknameMin": 6,
+    "userPasswordMax": 25,
+    "userPasswordMin": 6
+  },
+  
+  "friend": {
+    "notesMax": 15,
+    "friendRequestMsgMax": 50
+  }
+}
