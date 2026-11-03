@@ -1,0 +1,50 @@
+[
+    {
+        "signInId": 1,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/gold.png", "rewardName": "500", "quantity": 500, "rewardType": "gold" } ]
+    },
+    {
+        "signInId": 2,
+        "isSpecial": 1,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/bcubes.png", "rewardName": "25", "quantity": 25, "rewardType": "diamond" } ]
+    },
+    {
+        "signInId": 3,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/gold.png", "rewardName": "500", "quantity": 500, "rewardType": "gold" } ]
+    },
+    {
+        "signInId": 4,
+        "isSpecial": 1,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/bcubes.png", "rewardName": "125", "quantity": 125, "rewardType": "diamond" } ]
+    },
+    {
+        "signInId": 5,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/gold.png", "rewardName": "1000", "quantity": 1000, "rewardType": "gold" } ]
+    },
+    {
+        "signInId": 6,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/vip.png", "rewardName": "5 days", "quantity": 5, "level": 1, "rewardType": "vip" } ]
+    },
+    {
+        "signInId": 7,
+        "rewards": [ { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/events/gold.png", "rewardName": "2000", "quantity": 2000, "rewardType": "gold" } ]
+    },
+    {
+        "signInId": 8,
+        "isSpecial": 1,
+        "rewardList_1": [
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200045.png", "rewardId": 200045, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/face/400048.png", "rewardId": 400048, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/top/800084.png", "rewardId": 800084, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/pants/900082.png", "rewardId": 900082, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/shoes/1000027.png", "rewardId": 1000027, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400019.png", "rewardId": 1400019, "rewardType": "decoration" }
+        ],
+        "rewardList_2": [
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200048.png", "rewardId": 200048, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/face/400037.png", "rewardId": 400037, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/top/800052.png", "rewardId": 800052, "rewardType": "decoration" },
+            { "rewardPic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400018.png", "rewardId": 1400018, "rewardType": "decoration" }
+        ]
+    }
+]

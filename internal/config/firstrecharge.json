@@ -1,0 +1,42 @@
+[
+    {
+        "type": "decoration",
+        "name": {
+            "en_US": "Rich Glasses"
+        },
+        "url": "http://static.sandboxol.com/sandbox/images/banner/custom_glasses.3-.png",
+        "id": 261
+    },
+    {
+        "type": "decoration",
+        "name": {
+            "en_US": "Rich T_shirt"
+        },
+        "url": "http://static.sandboxol.com/sandbox/images/banner/clothes_tops.34.png",
+        "id": 259
+    },
+    {
+        "type": "decoration",
+        "name": {
+            "en_US": "Rich Shorts"
+        },
+        "url": "http://static.sandboxol.com/sandbox/images/banner/clothes_pants.34.png",
+        "id": 260
+    },
+    {
+        "type": "diamond",
+        "name": {
+            "en_US": "100 Bcubes"
+        },
+        "url": "http://static.sandboxol.com/sandbox/images/banner/cube.png",
+        "quantity": 100
+    },
+    {
+        "type": "gold",
+        "name": {
+            "en_US": "6999 Gold"
+        },
+        "url": "http://static.sandboxol.com/sandbox/images/banner/gold.png",
+        "quantity": 6999
+    }
+]

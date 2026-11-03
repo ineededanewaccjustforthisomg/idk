@@ -1,0 +1,55 @@
+{
+    "gold": {
+        "shopConfig": [
+            { "rewardId": 0, "dressId_1": 200025, "dressId_2": 200014 },
+            { "rewardId": 1, "dressId_1": 1400007, "dressId_2": 1400008 },
+            { "rewardId": 2, "dressId_1": 500018, "dressId_2": 500018 },
+            { "rewardId": 3, "dressId_1": 500027, "dressId_2": 500027 },
+            { "rewardId": 4, "vipLevel": 2, "vipDays": 7 },
+            { "rewardId": 5, "dressId_1": 1100003, "dressId_2": 1100003 },
+            { "rewardId": 6, "dressId_1": 1500005, "dressId_2": 1500005 }
+        ],
+        "shop_1": [
+            { "rewardId": 0, "rewardName": "Captain's Headgear", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200025.png" },
+            { "rewardId": 1, "rewardName": "Captain's Shield", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400007.png" },
+            { "rewardId": 2, "rewardName": "Dancing the tidy", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/animation/500018.png" },
+            { "rewardId": 3, "rewardName": "Warming up", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/animation/500027.png" },
+            { "rewardId": 4, "rewardName": "VIP+ 7 days", "rewardType": "vip", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/vips/vip_plus.png" },
+            { "rewardId": 5, "rewardName": "Devil Horns", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hat/1100003.png" },
+            { "rewardId": 6, "rewardName": "Angel Halo", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/crown/1500005.png" }
+        ],
+        "shop_2": [
+            { "rewardId": 0, "rewardName": "Violet Hair", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200014.png" },
+            { "rewardId": 1, "rewardName": "Pan", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400008.png" },
+            { "rewardId": 2, "rewardName": "Dancing the tidy", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/animation/500018.png" },
+            { "rewardId": 3, "rewardName": "Warming up", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/animation/500027.png" },
+            { "rewardId": 4, "rewardName": "VIP+ 7 days", "rewardType": "vip", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/vips/vip_plus.png" },
+            { "rewardId": 5, "rewardName": "Devil Horns", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hat/1100003.png" },
+            { "rewardId": 6, "rewardName": "Angel Halo", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/crown/1500005.png" }
+        ]
+    },
+    "diamond": {
+        "shopConfig": [
+            { "rewardId": 0, "dressId_1": 200040, "dressId_2": 200040 },
+            { "rewardId": 1, "dressId_1": 700006, "dressId_2": 700006 },
+            { "rewardId": 2, "vipLevel": 3, "vipDays": 7 },
+            { "rewardId": 3, "dressId_1": 1400012, "dressId_2": 1400012 },
+            { "rewardId": 4, "dressId_1": 1400015, "dressId_2": 1400016 }
+        ],
+        "shop_1": [
+            { "rewardId": 0, "rewardName": "Burning Skull", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200040.png" },
+            { "rewardId": 1, "rewardName": "Galaxy", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/background/700006.png" },
+            { "rewardId": 2, "rewardName": "MVP 7 days", "rewardType": "vip", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/vips/mvp.png" },
+            { "rewardId": 3, "rewardName": "Black Angel Wings", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400012.png" },
+            { "rewardId": 4, "rewardName": "Iron's Wings", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400015.png" }
+            
+        ],
+        "shop_2": [
+            { "rewardId": 0, "rewardName": "Burning Skull", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/hair/200040.png" },
+            { "rewardId": 1, "rewardName": "Galaxy", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/background/700006.png" },
+            { "rewardId": 2, "rewardName": "MVP 7 days", "rewardType": "vip", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/vips/mvp.png" },
+            { "rewardId": 3, "rewardName": "Black Angel Wings", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400012.png" },
+            { "rewardId": 4, "rewardName": "Captain's Cape", "rewardType": "decoration", "needBlock": 1, "pic": "https://iprs-blockman-spark.vercel.app/static/icons/wings/1400016.png" }
+        ]
+    }
+}

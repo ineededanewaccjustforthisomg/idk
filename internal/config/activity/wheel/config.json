@@ -1,0 +1,25 @@
+{
+    "name": "RELOADED: Lucky Wheel",
+    "type": "WHEEL",
+    "startTime": 0,
+    "endTime": 0,
+
+    "activityDesc": "Cherish the lucky wheel event! Win prizes bigger than ever.",
+    "activityEndTime": "2026-06-29",
+    "remainingTime": 999,
+    
+    "gold": {
+        "drawRewardCount": 5,
+        "luckyValueUpperLimit": 1000,
+        "singleQuantity": 100,
+        "multiQuantity": 450,
+        "oneIncreaseValue": 3
+    },
+    "diamond": {
+        "drawRewardCount": 5,
+        "luckyValueUpperLimit": 400,
+        "singleQuantity": 10,
+        "multiQuantity": 45,
+        "oneIncreaseValue": 10
+    }
+}

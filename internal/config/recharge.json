@@ -1,0 +1,62 @@
+[
+    {
+        "id": 7,
+        "productId": "and.diamond.1",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 6,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 60
+    },
+    {
+        "id": 8,
+        "productId": "and.diamond.5",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 30,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 300
+    },
+    {
+        "id": 9,
+        "productId": "and.diamond.10",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 60,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 600
+    },
+    {
+        "id": 10,
+        "productId": "and.diamond.25",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 165,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 1650
+    },
+    {
+        "id": 11,
+        "productId": "and.diamond.50",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 360,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 3600
+    },
+    {
+        "id": 12,
+        "productId": "and.diamond.100",
+        "type": "cube",
+        "price": 0.00,
+        "gift": 840,
+        "name": "Bcubes",
+        "desc": "Bcubes",
+        "diamonds": 8400
+    }
+]

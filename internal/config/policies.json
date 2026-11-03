@@ -1,0 +1,6 @@
+{
+    "enforceDeviceBinding": false,
+    "disableAccountCreation": false,
+    "bypassTimestampCheck": true,
+    "bypassNonceCheck": true
+}

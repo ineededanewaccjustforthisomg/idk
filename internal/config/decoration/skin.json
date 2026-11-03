@@ -1,0 +1,161 @@
+[
+  {
+    "id": 600001,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600001.png",
+    "sex": 0,
+    "resourceId": "0-163-232-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600002,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600002.png",
+    "sex": 0,
+    "resourceId": "193-0-0-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600003,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600003.png",
+    "sex": 0,
+    "resourceId": "123-0-170-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600004,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600004.png",
+    "sex": 0,
+    "resourceId": "4-0-170-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600005,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600005.png",
+    "sex": 0,
+    "resourceId": "10-184-70-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600006,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600006.png",
+    "sex": 0,
+    "resourceId": "156-169-1-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600007,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600007.png",
+    "sex": 0,
+    "resourceId": "189-156-0-89",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 3,
+    "inShop": false
+  },
+  {
+    "id": 600008,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600008.png",
+    "sex": 0,
+    "resourceId": "30-12-0-140",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 0,
+    "inShop": false
+  },
+  {
+    "id": 600009,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600009.png",
+    "sex": 0,
+    "resourceId": "144-69-3-165",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 0,
+    "inShop": false
+  },
+  {
+    "id": 600010,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600010.png",
+    "sex": 0,
+    "resourceId": "226-135-52-71",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 0,
+    "inShop": false
+  },
+  {
+    "id": 600011,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600011.png",
+    "sex": 0,
+    "resourceId": "255-222-183-71",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 2,
+    "inShop": false
+  },
+  {
+    "id": 600012,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600012.png",
+    "sex": 0,
+    "resourceId": "52-20-3-114",
+    "price": 0,
+    "currency": 0,
+    "clanLevel": 0,
+    "vip": 1,
+    "inShop": false
+  },
+  {
+    "id": 600013,
+    "typeId": 6,
+    "iconUrl": "https://static-magicmods.vercel.app/image/skin/600013.png",
+    "sex": 0,
+    "resourceId": "220-220-220-255",
+    "price": 999999,
+    "currency": 1,
+    "clanLevel": 0,
+    "vip": 0,
+    "inShop": false,
+    "ownedIds": [
+      9
+    ]
+  }
+]

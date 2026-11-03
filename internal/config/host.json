@@ -1,0 +1,11 @@
+{
+    "dispHost": "192.168.1.35",
+    "dispPort": 9900,
+
+    "cdnUrl": "https://static-xenox-service.vercel.app/",
+    "dispUrl": "https://static.moonsveil.xyz/",
+    "innerUrl": "https://static.moonsveil.xyz/",
+    "dataUrl": "https://static.moonsveil.xyz/",
+    "mapUrl": "https://static-xenox-service.vercel.app/maps/",
+    "coverUrl": "https://static-xenox-service.vercel.app/game-banners/"
+}

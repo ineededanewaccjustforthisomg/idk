@@ -1,0 +1,17 @@
+{
+    "bypassAuthCheck": [
+        "/config/files/:filename",
+        "/user/api/v1/app/renew",
+        "/user/api/v1/app/login",
+        "/game/api/v1/games/announcement/info",
+        "/game/api/v1/games/stop/announcement/info",
+        "/user/api/v1/user/mac/id",
+        "/user/api/v1/app/auth-token"
+    ],
+    "bypassPrefix": [
+        "/inner/api/v1/",
+        "/web-utils/api/v1/",
+        "/config/files/",
+        "/game/api/v1/games/update/list/"
+    ]
+}

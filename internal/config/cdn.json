@@ -1,0 +1,14 @@
+{
+    "basePath": "cdn-beta",
+    
+    "configPath": "appconfigs",
+    "currenyPath": "currencies",
+    "dressConfigPath": "decorations",
+    "dressIconPath": "icons",
+    "gameIconPath": "game-icons",
+    "gameBannerPath": "game-banners",
+    "gameResPath": "game-res",
+    "vipIconPath": "vips",
+    "mapPath": "maps",
+    "coverPath": "news"
+}
